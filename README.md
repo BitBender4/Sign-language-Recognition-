@@ -1,5 +1,5 @@
 # Sign-language-Recognition-
-🧠 Sign Language Recognition using OpenCV & Deep Learning
+Sign Language Recognition using OpenCV & Deep Learning
 
 This project recognizes American Sign Language (ASL) hand gestures in real time using a webcam. It uses OpenCV for hand detection and preprocessing, and a trained TensorFlow/Keras model for classification. The goal is to build an assistive tool for the deaf and hard of hearing community by converting sign language gestures into readable text.
 
